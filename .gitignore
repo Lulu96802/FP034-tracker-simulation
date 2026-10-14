@@ -1,0 +1,7 @@
+# Only the website goes to GitHub. Never upload data files (they will contain beneficiary details).
+*.xlsx
+*.xls
+*.csv
+_backup*/
+.DS_Store
+~$*
